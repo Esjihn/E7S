@@ -33,12 +33,11 @@
             // 
             // ArrowMainView
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DodgerBlue;
-            this.ClientSize = new System.Drawing.Size(878, 394);
+            this.ClientSize = new System.Drawing.Size(532, 197);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.Name = "ArrowMainView";
             this.Text = "Edens Verse Iconoclasm (E7S) Teleport Helper";
             this.ResumeLayout(false);
