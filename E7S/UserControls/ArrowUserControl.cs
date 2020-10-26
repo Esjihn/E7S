@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Data;
-using System.Text;
-using System.Windows.Forms;
-using E7S.Models;
+﻿using System.Windows.Forms;
+using E7S.Presenters;
 
-namespace E7S
+namespace E7S.UserControls
 {
-    public partial class ArrowUserControl : UserControl
+    public partial class ArrowUserControl : UserControl, IArrowUserControl
     {
         public ArrowUserControl()
         {

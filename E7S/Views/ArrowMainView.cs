@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
+using E7S.UserControls;
 
-namespace E7S
+namespace E7S.Views
 {
     public partial class ArrowMainView : Form
     {

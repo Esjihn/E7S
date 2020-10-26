@@ -1,4 +1,4 @@
-﻿namespace E7S
+﻿namespace E7S.Views
 {
     partial class ArrowMainView
     {
@@ -33,13 +33,14 @@
             // 
             // ArrowMainView
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DodgerBlue;
-            this.ClientSize = new System.Drawing.Size(512, 197);
+            this.ClientSize = new System.Drawing.Size(878, 394);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.Name = "ArrowMainView";
-            this.Text = "Edens Verse Teleport Helper";
+            this.Text = "Edens Verse Iconoclasm (E7S) Teleport Helper";
             this.ResumeLayout(false);
 
         }
