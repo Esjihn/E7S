@@ -18,7 +18,6 @@ namespace E7S
 
         private void LoadArrowResources()
         {
-            this.BackgroundImage = E7S.Properties.Resources.
             this.btnUpFacingDirection.Image = E7S.Properties.Resources.UpArrow;
             this.btnRightFacingDirection.Image = E7S.Properties.Resources.RightArrow;
             this.btnDownFacingDirection.Image = E7S.Properties.Resources.DownArrow;
